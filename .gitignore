@@ -11,6 +11,8 @@ web-build/
 ios
 android
 
+firebase.js
+
 # Native
 *.orig.*
 *.jks
